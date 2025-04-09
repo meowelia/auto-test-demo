@@ -8,7 +8,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@chromatic-com/playwright": "^0.12.0",
     "@playwright/test": "^1.44.1",
-    "@types/node": "^20.12.12"
+    "@types/node": "^20.12.12",
+    "chromatic": "^11.28.0"
   }
 }
